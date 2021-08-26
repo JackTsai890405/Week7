@@ -92,6 +92,10 @@ li {
   height: 864px;
 }
 
+.banner-squeeze {
+  width: 73%;
+}
+
 .banner-img {
   background-image: url(https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week7/img1.jpg);
   height: 864px;
