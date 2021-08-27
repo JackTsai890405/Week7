@@ -80,6 +80,14 @@ li {
   /* 將超出範圍的內容隱藏 */
 }
 
+.nav-text {
+  color: black;
+}
+
+.nav-text:hover {
+  color: #00cc99;
+}
+
 .footer-container {
   background: #f1f5f6;
 }
