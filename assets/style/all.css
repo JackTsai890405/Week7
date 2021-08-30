@@ -100,8 +100,9 @@ li {
   height: 864px;
 }
 
-.banner-squeeze {
-  width: 73%;
+.banner .container {
+  min-width: 1410px;
+  padding: 15px;
 }
 
 .banner-img {
